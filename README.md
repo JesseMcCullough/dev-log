@@ -4,6 +4,9 @@ My personal log for software development work and learning. I use it to track pr
 
 > Note: Updates reflect real work and learning. Frequency may vary.
 
+## December 19, 2025
+- Learned templating with EJS on Express (reminds me of PHP in some ways)
+
 ## December 18, 2025
 
 -   Created this repo as a place to track my software development work and learning
