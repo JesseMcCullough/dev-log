@@ -4,11 +4,14 @@ My personal log for software development work and learning. I use it to track pr
 
 > Note: Updates reflect real work and learning. Frequency may vary.
 
+## December 23, 2025
+- Learned how JavaScript packages work with npm and how `package.json`, `package-lock.json`, and `node_modules` relate to each other
+- Reviewed a high-level overview of monolithic vs. microservices architecture
+
 ## December 19, 2025
 - Learned templating with EJS on Express (reminds me of PHP in some ways)
 
 ## December 18, 2025
-
 -   Created this repo as a place to track my software development work and learning
 -   Implemented a Stack and a Queue from scratch; reviewed their Big-O time complexities
 -   Built a basic Express server and learned:
