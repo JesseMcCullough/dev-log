@@ -4,6 +4,23 @@ My personal log for software development work and learning. I use it to track pr
 
 > Note: Updates reflect real work and learning. Frequency may vary.
 
+## December 30, 2025
+- Learned about graphs
+- Reviewed recursion
+- Reviewed searching algorithms:
+  - `linear search`
+  - `binary search`
+- Learned about sorting algorithms:
+  - `bubble sort`
+  - `selection sort`
+  - `insertion sort`
+  - `merge sort`
+  - `quick sort`
+  - Skimmed: `radix sort`, `counting sort`
+  - Learned what makes a sorting algorithm `stable` vs. `unstable`
+- Learned about breadth-first search
+- Attempted creating a monorepo from my [webdev-sandbox](https://github.com/JesseMcCullough/webdev-sandbox) repo that other projects can link to... work in progress.
+
 ## December 29, 2025
 - Learned about Binary Search Trees and their Big-O time complexities
 - Reviewed JavaScript array methods: `map`, `filter`, and `reduce` 
