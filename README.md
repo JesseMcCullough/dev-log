@@ -4,6 +4,15 @@ My personal log for software development work and learning. I use it to track pr
 
 > Note: Updates reflect real work and learning. Frequency may vary.
 
+## December 31, 2025
+- Learned about:
+  - Depth-first search
+  - Tree traversals:
+    - `inorder`
+    - `preorder`
+    - `postorder`
+  - Memoization
+
 ## December 30, 2025
 - Learned about graphs
 - Reviewed recursion
@@ -19,7 +28,7 @@ My personal log for software development work and learning. I use it to track pr
   - Skimmed: `radix sort`, `counting sort`
   - Learned what makes a sorting algorithm `stable` vs. `unstable`
 - Learned about breadth-first search
-- Attempted creating a monorepo from my [webdev-sandbox](https://github.com/JesseMcCullough/webdev-sandbox) repo that other projects can link to... work in progress.
+- Attempted creating a monorepo from my [webdev-sandbox](https://github.com/JesseMcCullough/webdev-sandbox) repo that other projects can link to... work in progress
 
 ## December 29, 2025
 - Learned about Binary Search Trees and their Big-O time complexities
