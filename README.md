@@ -4,6 +4,16 @@ My personal log for software development work and learning. I use it to track pr
 
 > Note: Updates reflect real work and learning. Frequency may vary.
 
+## January 1, 2026
+- Learned about:
+  - Contiguous memory usage in arrays
+  - Pros and cons of arrays vs. linked lists
+- Became aware of:
+  - Bit manipulation
+  - Sliding window
+  - Two pointers
+  - Prefix sum
+
 ## December 31, 2025
 - Learned about:
   - Depth-first search
